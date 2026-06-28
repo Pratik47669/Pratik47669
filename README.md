@@ -1,16 +1,60 @@
-## Hi there 👋
+# Hi 👋, I'm Pratik Dashore
 
-<!--
-**Pratik47669/Pratik47669** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Backend Developer | MERN Stack | AI Enthusiast
 
-Here are some ideas to get you started:
+🎓 B.Tech CSE Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 Backend Developer Intern
+
+🌱 Currently learning **System Design**
+
+🚀 Passionate about building scalable SaaS applications and AI-powered products.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+## 💻 Tech Stack
+
+* JavaScript
+* TypeScript
+* React.js
+* Next.js
+* Node.js
+* Express.js
+* MongoDB
+* Python
+* Git & GitHub
+* Docker
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## 🚀 Current Focus
+
+* Building scalable MERN applications
+* AI-powered SaaS products
+* Backend Development
+* REST APIs
+* Authentication (JWT)
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## 📌 Featured Projects
+
+* 🤖 SupportAI – AI Customer Support SaaS
+* 🥗 NutriPlan AI – AI Diet Planner
+* 🚖 Uber Clone
+* 📸 Instagram Clone
+* 🚨 Emergency Alert System
+* 🌐 Personal Portfolio
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## 📫 Connect With Me
+
+* LinkedIn: *(https://www.linkedin.com/in/pratikdashore-sde/)*
+* Email: *(pratikdashoreknw12@gmail.com)*
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+⭐ Thanks for visiting my profile!
