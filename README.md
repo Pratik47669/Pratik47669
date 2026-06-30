@@ -83,6 +83,20 @@
 
 <p align="center">
   <a href="mailto:pratikdashoreknw12@gmail.com">
+    <img src="https://img.shields.io/badge/Email-pratikdashoreknw12%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/pratikdashore-sde/">
+    <img src="https://img.shields.io/badge/LinkedIn-Pratik%20Dashore-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/Pratik47669">
+    <img src="https://img.shields.io/badge/GitHub-Pratik47669-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+<!-- <p align="center">
+  <a href="mailto:pratikdashoreknw12@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
   </a>
   &nbsp;&nbsp;
@@ -93,7 +107,7 @@
   <a href="https://github.com/Pratik47669" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
   </a>
-</p>
+</p> -->
 
 ---
 
