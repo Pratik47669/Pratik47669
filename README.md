@@ -1,20 +1,15 @@
-<div align="center">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:7dd3fc&height=220&section=header&text=Pratik%20Dashore&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Backend-Focused%20Full%20Stack%20Developer%20%7C%20MERN%20Stack%20%7C%20AI%20Enthusiast&descAlignY=55&descSize=18"/>
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:7dd3fc&height=220&section=header&text=Pratik%20Dashore&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Backend-Focused%20Full%20Stack%20Developer%20%7C%20MERN%20Stack%20%7C%20AI%20Enthusiast&descAlignY=55&descSize=18"/>
+<h3 align="center">Backend-Focused Full Stack Developer | MERN Stack | AI Enthusiast</h3>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=7DD3FC&center=true&vCenter=true&width=650&lines=Backend-Focused+Full+Stack+Developer;Building+AI-Powered+MERN+Applications;Node.js+%7C+Express.js+%7C+MongoDB;Open+to+Backend+%26+Full+Stack+Internships" alt="Typing SVG" />
-</a>
-
-<img src="https://img.shields.io/badge/Open%20to%20Work-7dd3fc?style=for-the-badge&logo=probot&logoColor=black"/>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Pratik47669&color=7dd3fc&style=flat-square&label=Profile+Views"/>
-
-<img src="https://img.shields.io/github/followers/Pratik47669?label=Followers&style=flat-square&color=7dd3fc"/>
-
-</div>
+<p align="center">
+🎓 B.Tech CSE Student <br>
+💼 Backend Engineering | Node.js | Express.js | MongoDB <br>
+🌱 Building real-world MERN & AI applications <br>
+💡 Passionate about scalable backend systems, AI-powered applications, and modern web products
+</p>
 
 ---
 
@@ -102,8 +97,6 @@
   </a>
 </p>
 
-
-
 ---
 
 ![](https://komarev.com/ghpvc/?username=Pratik47669&label=Visitors&color=blueviolet&style=for-the-badge)
@@ -111,6 +104,7 @@
 ---
 
 <h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
+
 
 
 <!-- <h1 align="center">Hi 👋, I'm Pratik Dashore</h1>
